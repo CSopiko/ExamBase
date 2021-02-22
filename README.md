@@ -22,9 +22,9 @@ After opening files from [SOURCE_CODE](https://github.com/CSopiko/ExamBase/tree/
 ## Instructions
 - Student can make changes in personal information X<sup>[1](#f1)</sup> days before exams. 
 - Personal information before changes is available for viewing.
-- Student can choose maximum X<sup>[2](#f2)</sup> faculties.
+- Student can choose maximum Y<sup>[2](#f2)</sup> faculties.
 - Registred students are automatically distributed in examination rooms.
-- In each room maximum amount of students is X<sup>[3](#f3)</sup>.
+- In each room maximum amount of students is Z<sup>[3](#f3)</sup>.
 - In each room only one subject is being examined at a time.
 
 
@@ -33,9 +33,9 @@ After opening files from [SOURCE_CODE](https://github.com/CSopiko/ExamBase/tree/
 ---
 <a maxDays ="f1">1</a>: by default X=10
 
-<a maxFac ="f2">2</a>: by default X=20
+<a maxFac ="f2">2</a>: by default Y=20
 
-<a maxStud ="f3">3</a>: by default X=30
+<a maxStud ="f3">3</a>: by default Z=30
 
 
 ## License
