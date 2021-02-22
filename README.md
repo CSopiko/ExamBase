@@ -36,3 +36,7 @@ After opening files from [SOURCE_CODE](https://github.com/CSopiko/ExamBase/tree/
 <a maxDays ="f2">2</a>: by default X=20
 
 <a maxDays ="f3">3</a>: by default X=30
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
