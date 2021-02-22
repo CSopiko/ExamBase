@@ -1,6 +1,6 @@
 # ExamBase
 ## Overview
-University entrance exams management system initially written in PL/SQL for Oracle Database course (Free university of Tbilisi) assignment. In this system students can choose which subjects to pass, faculties with priorities and exam centers. \
+University entrance exams management system simulation initially written in PL/SQL for Oracle Database course (Free university of Tbilisi) assignment. In this system students can choose which subjects to pass, faculties with priorities and exam centers. \
 Note that entrants are referred as students.
 
 ## Usage
@@ -33,9 +33,9 @@ After opening files from [SOURCE_CODE](https://github.com/CSopiko/ExamBase/tree/
 ---
 <a maxDays ="f1">1</a>: by default X=10
 
-<a maxDays ="f2">2</a>: by default X=20
+<a maxFac ="f2">2</a>: by default X=20
 
-<a maxDays ="f3">3</a>: by default X=30
+<a maxStud ="f3">3</a>: by default X=30
 
 
 ## License
