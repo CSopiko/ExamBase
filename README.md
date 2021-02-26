@@ -6,7 +6,7 @@ Note that entrants are referred as students.
 ## Usage
 ### Prerequisites
 ```
-Get Started With Oracle Database 11g Express Edition 
+Oracle Database 11g Express Edition 
 PL/SQL developer
 ```
 ### Run programm
